@@ -1,6 +1,3 @@
-Tentu! Berikut adalah contoh README untuk sebuah proyek yang berisi fungsi rekursif sederhana untuk menghitung bilangan Fibonacci:
-
----
 
 # Fibonacci Recursive Function
 
