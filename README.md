@@ -82,9 +82,6 @@ In this example, the program prompts the user to enter an integer, and then it c
 
 While the recursive approach to calculating Fibonacci numbers is straightforward and easy to understand, it is not the most efficient due to its exponential time complexity. For larger values of `x`, this implementation can be very slow. Alternative methods such as iterative computation or memoization can be used to improve performance.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
